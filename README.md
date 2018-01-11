@@ -1,4 +1,4 @@
-#Status App
+# Status App
 
 ## Getting Started
 
