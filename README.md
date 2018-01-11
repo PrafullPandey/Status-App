@@ -1,4 +1,5 @@
 # Status App
+An Android Application with backend as Firebase similar to Whatsapp Status Feature to view media(images) posted by other user registered 
 
 ## Getting Started
 
