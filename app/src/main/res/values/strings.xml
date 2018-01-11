@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Status</string>
+    <string name="default_web_client_id2">842209997617-0sncguol1jjs16nc40acnvvekrj51lnu.apps.googleusercontent.com</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="mystatus">My Status</string>
+    <string name="add_status">tap to add status update</string>
+    <string name="list">Recent Updates</string>
+    <string name="status_add">Adding a Status</string>
+    <string name="add_status_desc">The status could be added by the user himself by clicking on My Status and thereafter clicking the floating action button to select the desired media(image) from the device.</string>
+    <string name="del_status">Deleting a Status</string>
+    <string name="del_status_desc">The status can be deleted by user himself by longpressing the desired status under My Status option and thereafter selecting the delete button to delete the corresponding status</string>
+    <string name="Logout">Logout</string>
+    <string name="logout_desc">A logout feature is added in the option menu to log you out.</string>
+</resources>
