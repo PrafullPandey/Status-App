@@ -5,7 +5,7 @@ An Android Application with backend as Firebase similar to Whatsapp Status Featu
 
 Open up the application on android studio and run it on your android smartphones . The application uses Firebase as it's Backend.
 
-### Prerequisites
+### Requirement
 
 * **Android Studio**
-
+* **Firebase**
